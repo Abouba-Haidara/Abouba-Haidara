@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Abouba7887?color=1DA1Flogo=twitter&style=for-the-badge)
 
 
-## I'm a FullStack Developer, and Freelancer!!
+## I'm a FullStack Developer | Software Engineer, Master Degree, and Freelancer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
