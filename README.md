@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to read and coding amazing thing
 
 ### Spotify Playing 🎧
-
+soon
 
 ### Connect with me:
 
@@ -24,7 +24,7 @@
 <br />
 
 ### Languages and Tools:
-
+soon
 
 <br />
 <br />
@@ -34,28 +34,28 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+soon
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/yeminicoder)
+➡️ [more videos...](https://youtube.com/Aboubacrine Haidara)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+ soon
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://haidara.herokuapp.com)
-
+soon
 ---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-
+soon
 <!--END_SECTION:activity-->
 
 </details>
@@ -67,5 +67,5 @@
 
 [website]: https://haidara.herokuapp.com
 [twitter]: https://twitter.com/Abouba7887
-[youtube]: https://youtube.com/yeminicoder
+[youtube]: https://youtube.com/AboubacrineHaidara
 [linkedin]: https://linkedin.com/in/abouba-haidara-03b70a143
