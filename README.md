@@ -6,7 +6,7 @@
 
 ## I'm a FullStack Developer | Software Engineer, Master Degree, and Freelancer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I like work on amazing goals
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and coding amazing thing
