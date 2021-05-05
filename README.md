@@ -1,6 +1,6 @@
 ### I'm Abouba Haidara - Portfolio  [Haidara][website] 👋
 
-[![Website](https://img.shields.io/website?label=yeminicoder&style=for-the-badge&url=https%3A%2F%2Fhaidara.herokuapp.com)](https://haidara.herokuapp.com)
+[![Website](https://img.shields.io/website?label=Haidara&style=for-the-badge&url=https%3A%2F%2Fhaidara.herokuapp.com)](https://haidara.herokuapp.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Abouba7887?color=1DA1Flogo=twitter&style=for-the-badge)
 
 
