@@ -24,7 +24,9 @@ soon
 <br />
 
 ### Languages and Tools:
-soon
+JAVA | PHP | NodeJS | Angular | C#
+Spring Boot | Angular | Symfony 
+VS Code | Intellij Ideas | SublimeText 
 
 <br />
 <br />
