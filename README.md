@@ -4,15 +4,16 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Abouba7887?color=1DA1Flogo=twitter&style=for-the-badge)
 
 
-## I'm a FullStack Developer | Software Engineer, Master Degree, and Freelancer!!
+## I'm a FullStack Developer | Software Engineer, Master Degree, and Freelancer.
 
 - 🌱 I like work on amazing goals
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Learning News Skills 
 - ⚡ Fun fact: I love to read and coding amazing thing
 
 ### Spotify Playing 🎧
-soon
+Faded
 
 ### Connect with me:
 
@@ -25,8 +26,8 @@ soon
 
 ### Languages and Tools:
 JAVA | PHP | NodeJS | Angular | C#
-Spring Boot | Angular | Symfony 
-VS Code | Intellij Ideas | SublimeText 
+Spring Boot | Angular | Symfony | Laravel | .Net
+VS Code | Intellij Ideas | SublimeText | More
 
 <br />
 <br />
