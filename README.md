@@ -26,14 +26,6 @@ Faded
 
 <br />
 
-### Languages and Tools:
-JAVA | PHP | NodeJS | Angular | C#
-Spring Boot | Angular | Symfony | Laravel | .Net
-VS Code | Intellij Ideas | SublimeText | More
-
-<br />
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
@@ -42,7 +34,7 @@ VS Code | Intellij Ideas | SublimeText | More
 soon
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/Aboubacrine Haidara)
+➡️ [more videos...](https://www.youtube.com/channel/UCQikQ-mXj7_7O2IxkhIEgpQ)
 
 ---
 
