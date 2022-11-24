@@ -18,16 +18,23 @@
 Faded
 
 ### Connect with me:
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abouba7887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abouba7887" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abouba-haidara-03b70a143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abouba-haidara-03b70a143" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11985750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11985750" height="30" width="40" /></a>
+<a href="https://fb.com/aboubakarara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aboubakarara" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@yeminicoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yeminicoder" height="30" width="40" /></a>
+</p>
 ---
 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-soon
+Coming Soon
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCQikQ-mXj7_7O2IxkhIEgpQ)
+➡️ [more videos...](https://www.youtube.com/@yeminicoder)
 
 ---
 
