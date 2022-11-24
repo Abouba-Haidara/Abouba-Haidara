@@ -31,17 +31,15 @@ Faded
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-Coming Soon
-<!-- YOUTUBE:END -->
-
 ➡️ [more videos...](https://www.youtube.com/@yeminicoder)
+<!-- YOUTUBE:END -->
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- soon
+ Coming soon
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://haidara.herokuapp.com)
