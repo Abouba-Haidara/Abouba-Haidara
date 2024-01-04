@@ -10,7 +10,7 @@
 
 - 🌱 I like work on amazing goals
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects 
 - ⚡ Learning News Skills 
 - ⚡ Fun fact: I love to read and coding amazing thing
 
